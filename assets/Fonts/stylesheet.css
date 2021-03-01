@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('HelveticaNeueCyr-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('HelveticaNeueCyr-Light.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('HelveticaNeue.ttf');
+    font-weight: 400;
+}
